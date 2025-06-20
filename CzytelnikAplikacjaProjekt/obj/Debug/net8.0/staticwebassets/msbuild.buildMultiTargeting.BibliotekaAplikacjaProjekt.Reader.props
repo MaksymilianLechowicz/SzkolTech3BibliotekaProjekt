@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BibliotekaAplikacjaProjekt.Reader.props" />
+</Project>
